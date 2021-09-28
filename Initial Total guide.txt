@@ -1,0 +1,24 @@
+                         inotebook   in   MERN 
+
+
+ 1 install mongo db software
+ 2  npx create-react-app inotebook
+ 3  creating the backend folder and open in it in vs code
+    { then run command 
+                     npm init (in terminal) 
+     then give all the data to make package.json file = 
+                              package name: (backend) inotebook-backend
+                               version: (1.0.0)
+                             description: iNotebook - your notebook on the cloud
+                            entry point: (index.js)
+                            test command:
+                            git repository:
+                            keywords:
+                            author:
+                           license: (ISC)
+
+                 Is this OK? (yes) yes   }
+
+ 4  run command
+                npm i express
+                npm i mongoose
